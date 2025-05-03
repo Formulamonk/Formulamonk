@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/drive/u/0/my-drive">
+ <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/drive/u/0/my-drive">
+ <img alt="" src="[YOUR-DEFAULT-IMAGE](https://drive.google.com/drive/u/0/my-drive)">
+</picture>
+
 ## Hi there 👋
 
 <!--
