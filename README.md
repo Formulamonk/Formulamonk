@@ -1,5 +1,3 @@
-## Hi there 👋,
-
 # 💫 About Me:
 <p align="justify"> Strategic Software Engineer transitioning into Data Science and Analytics, with strong expertise in web application development, data-driven testing, and system optimization. Skilled in building scalable analytics solutions from the ground up, including core data pipelines and reporting modules. Proficient in Python, SQL, Pandas, NumPy, and Scikit-learn for data analysis and modeling, and experienced with Tableau and Power BI for data visualization. Solid foundation in object-oriented programming, software architecture, and statistical methods to support data-driven decision-making.</p><br>
 <!--  🔭 I’m currently working on Data Analyt<br>
